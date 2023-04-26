@@ -1,0 +1,10 @@
+label,
+input {
+  margin: 5px;
+}
+
+input {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
