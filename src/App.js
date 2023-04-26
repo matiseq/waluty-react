@@ -10,7 +10,6 @@ function App() {
   const [currency, setCurrency] = useState('EUR');
   const [amount, setAmount] = useState('');
   const [result, setResult] = useState('');
-  const [validAmount, setValidAmount] = useState(true);
 
   const handleConvert = (event) => {
     event.preventDefault();
